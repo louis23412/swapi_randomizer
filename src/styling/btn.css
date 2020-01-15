@@ -1,0 +1,21 @@
+@font-face {
+    font-family:"STARWARS";
+    src:url("STARWARS.ttf") format("truetype");
+    font-weight:normal;
+    font-style:normal;}
+
+button {
+    font-family: "STARWARS";
+    background-color: grey;
+    border-radius: 0.5rem;
+    margin-left: 0.3rem;
+    border: 1px solid;
+    border-color: yellow;
+    outline: none;
+    padding: 0.4rem;
+}
+
+button:hover {
+    background-color: yellow;
+    cursor: pointer;
+}
