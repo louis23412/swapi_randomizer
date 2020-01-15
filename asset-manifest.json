@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/swapi-randomizer/static/css/main.9277ae68.chunk.css",
-    "main.js": "/swapi-randomizer/static/js/main.5dc73d81.chunk.js",
-    "main.js.map": "/swapi-randomizer/static/js/main.5dc73d81.chunk.js.map",
-    "runtime-main.js": "/swapi-randomizer/static/js/runtime-main.b8b21680.js",
-    "runtime-main.js.map": "/swapi-randomizer/static/js/runtime-main.b8b21680.js.map",
-    "static/js/2.5d4b3b2b.chunk.js": "/swapi-randomizer/static/js/2.5d4b3b2b.chunk.js",
-    "static/js/2.5d4b3b2b.chunk.js.map": "/swapi-randomizer/static/js/2.5d4b3b2b.chunk.js.map",
-    "index.html": "/swapi-randomizer/index.html",
-    "precache-manifest.d451918b528d547507e5d3892b37a52f.js": "/swapi-randomizer/precache-manifest.d451918b528d547507e5d3892b37a52f.js",
-    "service-worker.js": "/swapi-randomizer/service-worker.js",
-    "static/css/main.9277ae68.chunk.css.map": "/swapi-randomizer/static/css/main.9277ae68.chunk.css.map",
-    "static/js/2.5d4b3b2b.chunk.js.LICENSE": "/swapi-randomizer/static/js/2.5d4b3b2b.chunk.js.LICENSE",
-    "static/media/btn.css": "/swapi-randomizer/static/media/STARWARS.3f085be9.ttf",
-    "static/media/index.css": "/swapi-randomizer/static/media/main.ae8681ef.jpg"
+    "main.css": "/swapi_randomizer/static/css/main.d0445409.chunk.css",
+    "main.js": "/swapi_randomizer/static/js/main.7bc31721.chunk.js",
+    "main.js.map": "/swapi_randomizer/static/js/main.7bc31721.chunk.js.map",
+    "runtime-main.js": "/swapi_randomizer/static/js/runtime-main.02b1e4f5.js",
+    "runtime-main.js.map": "/swapi_randomizer/static/js/runtime-main.02b1e4f5.js.map",
+    "static/js/2.5d4b3b2b.chunk.js": "/swapi_randomizer/static/js/2.5d4b3b2b.chunk.js",
+    "static/js/2.5d4b3b2b.chunk.js.map": "/swapi_randomizer/static/js/2.5d4b3b2b.chunk.js.map",
+    "index.html": "/swapi_randomizer/index.html",
+    "precache-manifest.c2369464e4efe2d659a8ac7c9fa7d581.js": "/swapi_randomizer/precache-manifest.c2369464e4efe2d659a8ac7c9fa7d581.js",
+    "service-worker.js": "/swapi_randomizer/service-worker.js",
+    "static/css/main.d0445409.chunk.css.map": "/swapi_randomizer/static/css/main.d0445409.chunk.css.map",
+    "static/js/2.5d4b3b2b.chunk.js.LICENSE": "/swapi_randomizer/static/js/2.5d4b3b2b.chunk.js.LICENSE",
+    "static/media/btn.css": "/swapi_randomizer/static/media/STARWARS.3f085be9.ttf",
+    "static/media/index.css": "/swapi_randomizer/static/media/main.ae8681ef.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8b21680.js",
+    "static/js/runtime-main.02b1e4f5.js",
     "static/js/2.5d4b3b2b.chunk.js",
-    "static/css/main.9277ae68.chunk.css",
-    "static/js/main.5dc73d81.chunk.js"
+    "static/css/main.d0445409.chunk.css",
+    "static/js/main.7bc31721.chunk.js"
   ]
 }
